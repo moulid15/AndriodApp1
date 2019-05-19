@@ -3,4 +3,6 @@
     <string name="name">Name</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="entersome"> Enter Something </string>
+    <string name="Button_submit"> Enter </string>
 </resources>
